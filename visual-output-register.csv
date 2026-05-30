@@ -1,0 +1,8 @@
+artifact_id,path,artifact_kind,role,authority,derived_from,dimension_claim,fabrication_required,notes
+readme,README.md,measurement_template,concept,concept_only,,none,false,"L1 concept overview only; no fabrication authority."
+design,design.md,measurement_template,concept,concept_only,,none,false,"Mechanism and risk map for bowed and struck flexible-blade playing; no released dimensions or tuning values."
+bom,bom.csv,design_table,concept,concept_only,design.md,none,false,"Estimated subsystem list only; physical parts require review and measurement before fabrication."
+decision-record,decision-record.md,measurement_template,story,concept_only,design.md,none,false,"Captures qmd failure decisions open questions and L1 exclusions."
+mcp-session-log,cad/mcp-session-log.md,measurement_template,build_log,concept_only,,none,false,"Records QMD Step 0 failure and absence of MCP/CAD authoring."
+future-blade-coupon,cad/blade-flex-coupon.scad,cad,planned_coupon,pending_measurement,design.md,planned_missing_artifact,false,"Future CAD only after measured or reviewed blade and safety parameters exist."
+future-cad,cad/,cad,concept,pending_measurement,design.md,planned_missing_artifact,false,"Reserved for future CAD after measured or reviewed parameters exist; no CAD geometry is present."
