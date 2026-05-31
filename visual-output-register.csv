@@ -6,3 +6,5 @@ decision-record,decision-record.md,measurement_template,story,concept_only,desig
 mcp-session-log,cad/mcp-session-log.md,measurement_template,build_log,concept_only,,none,false,"Records QMD Step 0 failure and absence of MCP/CAD authoring."
 future-blade-coupon,cad/blade-flex-coupon.scad,cad,planned_coupon,pending_measurement,design.md,planned_missing_artifact,false,"Future CAD only after measured or reviewed blade and safety parameters exist."
 future-cad,cad/,cad,concept,pending_measurement,design.md,planned_missing_artifact,false,"Reserved for future CAD after measured or reviewed parameters exist; no CAD geometry is present."
+wl-starter,musical-saw-starter.wl,wolfram_loader,source_code,reference_only,wolfram/musical-saw-wolfram-model.wl,none,false,"Thin Wolfram entry point; source reference only; not fabrication authority."
+wl-model,wolfram/musical-saw-wolfram-model.wl,wolfram_model,source_code,reference_only,design.md,none,false,"Parametric symbolic flexural-blade relationship with Estimate placeholders only; pending measurement, not fabrication authority."
