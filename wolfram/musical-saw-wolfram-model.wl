@@ -112,7 +112,7 @@ musicalSawLengthSweep[
    {lengthRatio, Subdivide[lengthMinimum, lengthMaximum, sampleCount]}
    ];
 
-Manipulate[
+musicalSawExplorer = Manipulate[
  Module[
   {
    ratio = musicalSawControlFrequencyRatio[
