@@ -1,0 +1,7 @@
+item,required_spec,search_terms,supplier_candidates,date_checked,unit_price_usd,lead_time,substitution_risk,notes
+Flexible saw blade (bom.csv blade),"blade family/material/tooth condition TBD; must flex safely and repeatably","musical saw; performance saw blade; hand saw blade","musical-saw makers; hardware/tool suppliers",TBD,TBD,TBD,High,"No blade family or steel spec decided; safe-flex behavior unmeasured"
+Handle/grip interface (bom.csv handle),"comfortable, control-friendly, no sharp-edge exposure","musical saw handle; saw grip","musical-saw makers; hardware suppliers",TBD,TBD,TBD,Medium,"Pending handling/safety review"
+Tooth/edge guard (bom.csv edge-guard),"guarding for exposed teeth during play/storage/transport","saw blade guard; tooth guard sheath","safety/hardware suppliers",TBD,TBD,TBD,Low,"Shape/material/attachment method unspecified"
+Bow and rosin (bom.csv bow),"bow suitable for saw excitation","musical saw bow; bass bow; rosin","music suppliers",TBD,TBD,TBD,Medium,"Contact setup requires testing"
+Soft striker (bom.csv striker),"soft mallet/striker for secondary struck mode","soft mallet; rubber striker","percussion suppliers",TBD,TBD,TBD,Low,"Material/mass/strike behavior unresolved"
+Blade storage/transport protection (bom.csv storage),"protective case/sheath for a flexible blade","musical saw case; blade sheath","case suppliers",TBD,TBD,TBD,Low,"Final method pending safety review"
