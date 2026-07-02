@@ -1,0 +1,7 @@
+check_id,area,target,method,tolerance,measured,result,action
+VAL-001,Blade survey,"source condition, tooth safety, visible wear, and handling hazards documented","visual/tactile survey (design.md First Measurement Gates)",measurement_required,TBD,TBD,"Reject blade or add guarding if hazards found"
+VAL-002,Flex test,"repeatable gentle S-curve held without unsafe motion or visible damage","controlled hand-flex test",measurement_required,TBD,TBD,"Revise blade choice or handling technique if unsafe"
+VAL-003,Bow test,"stable tone started and stopped safely","bowed excitation test",measurement_required,TBD,TBD,"Revise bow/rosin/contact setup if tone is unstable"
+VAL-004,Strike test,"transient response and damping without uncontrolled blade movement","struck excitation test (secondary mode)",measurement_required,TBD,TBD,"Revise striker or abandon struck mode if uncontrolled"
+VAL-005,Pitch observation,"measured pitch recorded only after setup/tool documented","tuner or recording, logged with setup notes",measurement_required,TBD,TBD,"Discard unlabeled pitch data"
+VAL-006,Safety review,"edge protection, posture, storage, transport addressed before any public guidance","safety checklist review",measurement_required,TBD,TBD,"Block public build guidance until resolved"

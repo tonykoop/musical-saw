@@ -1,0 +1,9 @@
+{
+  "product": "musical-saw",
+  "pipeline": "studiopipeline:evolution-pipeline",
+  "stage": "0-intake",
+  "master_revision": "rev-A (pre-commit intake, 2026-07-01)",
+  "generated": "2026-07-01",
+  "cad_masters": [],
+  "notes": "No OpenSCAD/native CAD master exists or was authored this pass. wolfram/musical-saw-wolfram-model.wl (sha256: ef107c5af229e00420eb38e2f3d78fe94190869cd976110a1a2002d7a5bfae5e) models only DIMENSIONLESS control ratios (active-length ratio, bend/torsion control, pitch-gain factors) — no absolute blade length, thickness, or material constants exist anywhere in this repo to parameterize a CAD model from. decision-record.md 'Rejected For L1' explicitly excludes CAD/DXF. Gate A (Alpha workspace compile) not applicable until measured blade/safety data exists."
+}

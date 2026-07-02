@@ -1,0 +1,5 @@
+cut_id,subsystem,part_or_blank,authority,estimate_status,dimension_status,source_status,notes
+blade-candidate,blade,candidate saw blade stock/source,pending_measurement,estimate_pending_measurement,no_released_dimensions,planned,"No blade family, size, or steel spec is released (design.md Blade subsystem)."
+handle-blank,grip,handle/grip blank or modification stock,pending_measurement,estimate_pending_measurement,no_released_dimensions,planned,"Comfort/control geometry pending handling review."
+edge-guard-stock,safety,tooth/edge guard stock,pending_measurement,estimate_pending_measurement,no_released_dimensions,planned,"Guard shape/material/attachment unspecified."
+flex-guide-stock,control,optional temporary flex reference/jig stock,pending_measurement,estimate_pending_measurement,no_released_dimensions,planned,"Optional measurement aid only; no curvature or jig geometry specified (bom.csv flex-guide)."

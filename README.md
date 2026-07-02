@@ -19,11 +19,17 @@ measurement.
 - `design.md` - mechanism study, playing modes, subsystem boundaries, and
   measurement gates.
 - `bom.csv` - estimated part classes and unresolved procurement decisions.
+- `sourcing.csv` - supplier/spec candidates only; all TBD.
+- `cut-list.csv` - L1 planning cut categories only; no released dimensions.
+- `validation.csv` - future measurement gates (blade, flex, bow, strike, pitch, safety).
+- `risks.md` - safety, mechanism, and fabrication risks.
+- `drawing-brief.md` - no drawings authorized yet; future gated drawing needs.
 - `decision-record.md` - qmd Step 0 result, decisions, assumptions, and open
   questions.
 - `visual-output-register.csv` - V5 authority register; every row is
   `concept_only` or `pending_measurement`.
 - `cad/mcp-session-log.md` - provenance stub; no MCP or CAD authoring occurred.
+- `evolution/` - Stage 0 intake only (manifest, design-intent, revisions); Gate A not yet run.
 
 ## Mechanism Summary
 
